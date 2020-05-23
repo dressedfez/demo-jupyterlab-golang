@@ -9,3 +9,5 @@ This repository provides a talk/demo including Jupyter notebooks (Jupyterlab) an
 
  The project can be opened on Binder using the following link:
  [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dressedfez/demo-jupyterlab-golang/master)
+
+ For the mybinder integration see: https://github.com/binder-examples/apt_install.
