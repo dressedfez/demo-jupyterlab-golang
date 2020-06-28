@@ -15,6 +15,9 @@ This repository provides a talk/demo including Jupyter notebooks (Jupyterlab) an
 
 **Note:**
 
-The notebooks are often use RISE (**R**eveal.js - Jupyter/**I**Python **S**lideshow **E**xtension) in order to have a combination of a nice slide deck and the interactive nature of Jupyter/IPython notebooks.
+The notebooks often use RISE (**R**eveal.js - Jupyter/**I**Python **S**lideshow **E**xtension) in order to have a combination of
+
+a) a nice slide deck and
+b)the interactive nature of Jupyter/IPython notebooks.
 
 The documentation for RISE can be found here: https://rise.readthedocs.io/en/stable/index.html.
