@@ -7,3 +7,5 @@ libzmq3-dev
 mercurial
 pkg-config
 python3-pip
+libgles2-mesa-dev
+libxkbcommon-dev
